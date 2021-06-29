@@ -1,0 +1,10 @@
+=======================================================================================================
+To initialize tslint.json we need to type:
+./node_modules/.bin/tslint --init
+=======================================================================================================
+We need execute 2 commands to run the project: 
+
+1.- npm start (nodemon dist/app.js) // to execute javascript code
+2.- tsc --watch // to watch every chance on typescript 
+(tsc compiles typescript code)
+=======================================================================================================

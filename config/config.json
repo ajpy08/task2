@@ -1,0 +1,14 @@
+{
+    "db": {
+        "DATABASE_HOST": "localhost",
+        "DATABASE_PORT": 3306,
+        "DATABASE_USER": "root",
+        "DATABASE_PASSWORD": "fmat*0348",
+        "DATABASE_NAME": "test"
+    },
+    "various": {
+        "OPTIONAL_SEED": "@optionalSEED"
+    },
+    "users": [],
+    "articles": []
+}
